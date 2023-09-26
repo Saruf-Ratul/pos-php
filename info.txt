@@ -1,0 +1,71 @@
+	ABOUT THE PROJECT
+	# Project POS Management System (Point Of Sales)
+	# Version: V1.0.1
+	# Technologies Used: XAMPP,PHP,MYSQL,JQuery,HTML,CSS3,Bootstrap Framework
+	# Type: Web Application
+	# Database: MYSQL
+	# Author: Saruf Ratul
+	# Company : MIRA Technologies
+	# App Year  : 2023
+	# Build on PHP Version 8.1.0 or Higher
+
+	# Features:
+		* Secure Login and Logout
+		* Prevent User to Log in on multiple device at a time
+		* Administrator Panel
+		* Cashier Panel
+		* Products Management (CRUD)
+		* Supplier Management (CRUD)
+		* Manage Point of Sales(POS)
+		* Generate Invoices
+		* Search Products
+		* Store Management(CRUD)
+		* Category Management(CRUD)
+		* Manage Products Expiration
+		* View Order List
+		* Filter order by Date range
+		* User Management
+		* Print Terminal Receipt (80mm and A4 Size)
+		* User Update Own Account 
+		* User Update System Settings
+
+# Installation Method:
+#HOW TO RUN 
+	Download and Install any local web server such as XAMPP/WAMP.
+	click here to Download local web server
+	 <a href="https://www.apachefriends.org/download.html">Download XAMPP Apache</a>
+	 <a href="https://sourceforge.net/projects/wampserver/">Download WAMPServer</a>
+	 To Download VSCode Editor Click the link below
+	 <a href="https://code.visualstudio.com/download">Download VSCode Editor</a>
+	Download the provided source code zip file.
+	
+	Open your XAMPP/WAMP php.ini file and uncomment the mysql extension. Then, save the file.
+
+	Open your XAMPP/WAMP's Control Panel and start Apache.
+
+	Extract the downloaded source code zip file.
+
+	If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+
+	Browse the PHPMyAdmin in a browser. i.e. http://www.empirictexbd.com/phpmyadmin
+
+	Create a new database named pos_db.
+
+	Import the provided SQL file. The file is known as pos_db.sql located inside the db folder.
+
+	Browse the POS Management System in a browser. i.e. http://www.empirictexbd.com/pos-v1/
+
+	Locate example.init.php in app/ folder and copy its content to init.php and set the configuration accordingly else the application will not work
+
+	Default Administrator Access
+	email: admin@kme.com
+	Password: admin123
+
+	Default Cashier Access
+	email: cashier@kme.com
+	Password: cashier
+
+	For Source Code Contact Flat ERP Technologies 
+	ssaruftoratul95@gmail.com / +880-1770-816000
+
+	//password to unzip the downloaded project is : flaterp
